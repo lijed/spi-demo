@@ -1,0 +1,4 @@
+# Project exclude paths
+/jet-database-driver/target/
+/spi-app/target/
+/spi-core/target/
